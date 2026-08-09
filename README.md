@@ -9,8 +9,7 @@
 
 游戏界面
 
-![演示](https://github.com/bruce609685-collab/GuaJiXiuXian/blob/main/GuaJiXiuXian.png?raw=true)
-
+![演示](https://raw.githubusercontent.com/bruce609685-collab/GuaJiXiuXian/refs/heads/main/GuaJiXiuXian.jpg)
 
 
 开发使用工具：
