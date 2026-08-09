@@ -2,6 +2,8 @@
 
 游戏总时长3-5小时（看玩家运气），适合上班挂机摸鱼。
 
+存档文件在localStorage，存档名guajixiuxian_save，目前不支持导出导入存档。
+
 使用工具：
 
 WorkBuddy执行任务
