@@ -20,6 +20,8 @@ WorkBuddy执行任务
 
 Kimi K3搭建游戏框架
 
+豆包网页版编写设定
+
 Grok4.5设计运算代码
 
 DeepSeek v4 Flash正式版微调优化
